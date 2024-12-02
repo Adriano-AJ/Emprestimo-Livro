@@ -1,2 +1,2 @@
 # Emprestimo-Livro
-Sistema de emprestimos de livros
+Sistema de emprestimo de livros
